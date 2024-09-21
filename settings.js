@@ -19,19 +19,19 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Bravo' //ur bot name
-global.ownernumber = '923135067520' //ur owner number
-global.ownername = 'Bravo' //ur owner name
+global.botname = 'MAK' //ur bot name
+global.ownernumber = '923157843661' //ur owner number
+global.ownername = 'MAK' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "removed"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
-global.author = "Bravo"
-global.creator = "923135067520@s.whatsapp.net"
+global.author = "MAK"
+global.creator = "923157843661@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["+923135067520"] // Premium User
+global.premium = ["+923157843661"] // Premium User
 global.hituet = 0
 
 //bot sett
